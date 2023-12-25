@@ -3,8 +3,8 @@
 
 <h2>REV 1.0</h2>
 
-<img src="https://github.com/RusikOk/-BluePill-to-J-Link-OB-v1.0/blob/main/5_photo/rev%201.0/P20818-154409.jpg" alt="top"> 
-<img src="https://github.com/RusikOk/-BluePill-to-J-Link-OB-v1.0/blob/main/5_photo/rev%201.0/P20818-154447.jpg" alt="bottom"> 
+![top side](5_photo/rev%201.0/P20818-154409.jpg)
+![bottom side](5_photo/rev%201.0/P20818-154447.jpg)
 <br>
 выявленные недостатки:<br>
 - не работает должным образом светодиод активности (схема на 555 таймере) похоже не успевает на 4 000 МГц.<br>
