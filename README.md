@@ -2,6 +2,7 @@
 модернизация китайской платы под свои хотелки
 
 ![SWD](5_photo/swd_pinout.jpg)
+![SWD](5_photo/swd_pinout_desc.png)
 
 <h2>REV 1.0</h2>
 
