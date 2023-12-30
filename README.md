@@ -6,8 +6,8 @@
 
 <h2>REV 1.0</h2>
 
-![top side](5_photo/rev%201.x/P20818-154409.jpg)
-![bottom side](5_photo/rev%201.x/P20818-154447.jpg)
+![top side](5_photo/rev%201.x/P31230-175622.jpg)
+![bottom side](5_photo/rev%201.x/P31230-175608.jpg)
 <br>
 <br>
 выявленные недостатки:<br>
@@ -15,8 +15,8 @@
 
 <h2>REV 2.0</h2>
 
-![top side](5_photo/rev%202.x/P31226-033634.jpg)
-![bottom side](5_photo/rev%202.x/P31226-033717.jpg)
+![top side](5_photo/rev%202.x/P31230-174744.jpg)
+![bottom side](5_photo/rev%202.x/P31230-174837.jpg)
 <br>
 <br>
 ссылки:<br>
